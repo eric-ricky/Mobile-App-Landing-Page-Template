@@ -44,7 +44,7 @@ If you find any issues with this template or have suggestions for improvements, 
 
 This template is released under the MIT License. See the LICENSE file for details.
 
-[Demo](https://sparkblog.vercel.app/)
+[Demo](https://mobile-app-landing-page-template.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -52,6 +52,5 @@ This template is released under the MIT License. See the LICENSE file for detail
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/erick-otieno-7532b01b9
 [product-preview]: product-preview1.jpeg
